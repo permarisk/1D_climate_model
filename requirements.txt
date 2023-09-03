@@ -1,7 +1,2 @@
 numpy
-pandas
-rasterio
-pyproj
-matplotlib
-fiona
-descartes
+
